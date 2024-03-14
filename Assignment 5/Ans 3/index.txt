@@ -1,0 +1,5 @@
+1. Seo-Meta tags,such as the "description" and "keywords" tags, can help improve a webpage's visibility on search engine result pages(SERPs).
+2. Social Media Sharing - Meta tags like the open Graph Protocol tags allow developers to control how web pages are displayed when shared on social media platform like facebook , twitter and linkedin.
+3. Charecter encoding and language- The metatag specifying the character encoding ensures that the browser interprets the text correctly, especially when dealing with special character or multilingual content.
+4. Viewport control-The viewport meta tag is crucial for responsive web design.
+5. HTTP- Equiv tags- Meta tags with http-equiv attribute enable specific HTTP header fuctionalities,like refreshing or redirecting the page after a certain time.

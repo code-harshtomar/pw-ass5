@@ -1,0 +1,2 @@
+A favicon that stands for a favorite icon is a tiny icon include along with a website , which is displayed in places like the browser's address bar, page tabs, and bookmarksmenu. it is usually 16*16 pixels in size and stored in GIF ,PNG or ICo file format.
+They are used to improve  user experience and enforce brand consistency. when a familiar icon is seen in the browser address bar.
